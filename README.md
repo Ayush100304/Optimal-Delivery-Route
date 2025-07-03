@@ -56,6 +56,9 @@ The API documentation is available at http://localhost:8000/docs when the backen
 ## Contributors
 
 - Alok Nawani
+- Shalini Mehra
+- Ayush Mehta
+- Ankush Pundir
 
 ## License
 
